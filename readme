@@ -1,1 +1,4 @@
-This is a multi- classification problem to classify restaurants as Critical, non-critical and non-applicable.
+This is a multi- classification problem to classify restaurants as Critical, non-critical and non-applicable
+The various classifiers used for checking are:-
+1. KNN Classifier
+2. Decision Tree Classifier.
